@@ -1,0 +1,4 @@
+mObscuringWindow=Window{2212fb0 u0 com.vrproductiveapps.whendo/com.vrproductiveapps.whendo.ui.HomeActivity}
+
+	
+//android.widget.TextView[@content-desc="Guardar"]
